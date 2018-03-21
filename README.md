@@ -12,6 +12,8 @@
 
 * [Исходный код Конвертера слоев из PSD в JPG](https://github.com/encontra/encontra-convert/blob/master/encontra-convert-psd/src/main/java/pt/inevo/encontra/convert/PSD2PNGConverter.java)
 
+* [Бот для поиска самого счастливого (злобного, грустного, ...) лица в интернет](https://github.com/gridgentoo/BotModernAI/tree/master/HappyFace)
+
  * [Как верстать сайты быстрее, чем их рисуют, Юрий Артюх](https://www.youtube.com/watch?v=tdRuZfZW99A)
 
 
