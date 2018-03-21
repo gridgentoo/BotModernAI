@@ -52,4 +52,7 @@
 
 * [Искусственный интеллект переводит с китайского на английский как человек,.. на уровне профессионального переводчика-человека. Следующий шаг — перевод новостей в реальном времени.](https://www.popmech.ru/technologies/news-415292-iskusstvennyy-intellekt-perevodit-s-kitayskogo-na-angliyskiy-kak-chelovek/)
 
+* [Парсим Биржевые метаданные JSON : : Создание пользовательской новостной ленты.](https://www.mql5.com/ru/articles/4149)
+
+
  
