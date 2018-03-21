@@ -4,7 +4,7 @@
 ## Материалы для [Cloud Day 2.0](https://github.com/evangelism/ModernAI/tree/v1.0.cloudday), Cognitive School and ModernAI Course
 
 ## Полезные ссылки N1
- * [Пример Парсенга PSD фалов как Сервиса](https://aka.ms/bf-bc-emulator)
+ * [Пример Парсенга PSD фалов как Сервиса](https://zeplin.io)
 
 [Как извлечь МетаДанные из PSD-файла : : Исходный код Экстрактора Метаданных]
 (https://docs.google.com/document/d/1loNuSXsm3kMWAPosGrMNexQKvTE-dqvjBRlMOxsQwx4/)
