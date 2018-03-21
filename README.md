@@ -10,6 +10,8 @@
 
 * [Исходный код Конвертера слоев из PSD в PNG](https://github.com/encontra/encontra-convert/blob/master/encontra-convert-psd/src/main/java/pt/inevo/encontra/convert/PSD2PNGConverter.java)
 
+* [Исходный код Конвертера слоев из PSD в JPG](https://github.com/encontra/encontra-convert/blob/master/encontra-convert-psd/src/main/java/pt/inevo/encontra/convert/PSD2PNGConverter.java)
+
  * [Как верстать сайты быстрее, чем их рисуют, Юрий Артюх](https://www.youtube.com/watch?v=tdRuZfZW99A)
 
 
