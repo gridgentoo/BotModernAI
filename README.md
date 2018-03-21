@@ -3,7 +3,12 @@
 
 ## Материалы для [Cloud Day 2.0](https://github.com/evangelism/ModernAI/tree/v1.0.cloudday), Cognitive School and ModernAI Course
 
-## Полезные ссылки
+## Полезные ссылки N1
+[zeplin.io] Как извлечь МетаДанные из PSD-файла : : Исходный код Экстрактора Метаданных
+Как верстать сайты быстрее, чем их рисуют, Юрий Артюх
+https://docs.google.com/document/d/1loNuSXsm3kMWAPosGrMNexQKvTE-dqvjBRlMOxsQwx4/
+
+## Полезные ссылки N2
   * [Microsoft Bot Framework](http://botframework.com)
   * [Bot Framework Emulator](https://aka.ms/bf-bc-emulator)
   * [Bot Template for Visual Studio](http://aka.ms/bf-bc-vstemplate)
