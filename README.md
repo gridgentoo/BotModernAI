@@ -8,7 +8,7 @@
 
  * [Как извлечь МетаДанные из PSD-файла : : Исходный код Экстрактора Метаданных](https://docs.google.com/document/d/1loNuSXsm3kMWAPosGrMNexQKvTE-dqvjBRlMOxsQwx4/)
 
-* [Исходный код Конвертера слоев из PSD в PNG].(https://github.com/encontra/encontra-convert/blob/master/encontra-convert-psd/src/main/java/pt/inevo/encontra/convert/PSD2PNGConverter.java)
+* [Исходный код Конвертера слоев из PSD в PNG](https://github.com/encontra/encontra-convert/blob/master/encontra-convert-psd/src/main/java/pt/inevo/encontra/convert/PSD2PNGConverter.java)
 
  * [Как верстать сайты быстрее, чем их рисуют, Юрий Артюх](https://www.youtube.com/watch?v=tdRuZfZW99A)
 
