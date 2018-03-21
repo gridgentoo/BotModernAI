@@ -6,7 +6,9 @@
 ## Полезные ссылки N1
  * [Пример Парсинга PSD файлов как Сервиса](https://zeplin.io)
 
- * [Как извлечь МетаДанные из PSD-файла : : Исходный код Экстрактора Метаданных! Дядя Вова : : Скрипач не нуже родной, он только лишнее топливо жрет! Верстальщик сайтов не нужен!](https://docs.google.com/document/d/1loNuSXsm3kMWAPosGrMNexQKvTE-dqvjBRlMOxsQwx4/)
+ * [Как извлечь МетаДанные из PSD-файла : : Исходный код Экстрактора Метаданных! 
+Дядя Вова : : Скрипач не нуже родной, он только лишнее топливо жрет! Верстальщик сайтов не нужен, он только лишнее топливо жрет!
+](https://docs.google.com/document/d/1loNuSXsm3kMWAPosGrMNexQKvTE-dqvjBRlMOxsQwx4/)
 
 * [Исходный код Конвертера слоев из PSD в PNG](https://github.com/encontra/encontra-convert/blob/master/encontra-convert-psd/src/main/java/pt/inevo/encontra/convert/PSD2PNGConverter.java)
 
