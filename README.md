@@ -48,4 +48,8 @@
   
  Полезные фрагменты кода для самостоятельного создания чат-бота находятся в директории [ExtraFiles](ExtraFiles). Там можно
  взять классы, взаимодействующие с [OpenWeatherMap API](http://openweathermap.org), класс диалога [ChoiceDialog](ExtraFiles/ChoiceDialog.cs) и др.
+
+
+* [Искусственный интеллект переводит с китайского на английский как человек,.. переводить текст с китайского на английский на уровне профессионального переводчика-человека](https://www.popmech.ru/technologies/news-415292-iskusstvennyy-intellekt-perevodit-s-kitayskogo-na-angliyskiy-kak-chelovek/)
+
  
