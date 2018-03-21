@@ -6,10 +6,9 @@
 ## Полезные ссылки N1
  * [Пример Парсенга PSD фалов как Сервиса](https://zeplin.io)
 
-[Как извлечь МетаДанные из PSD-файла : : Исходный код Экстрактора Метаданных]
-(https://docs.google.com/document/d/1loNuSXsm3kMWAPosGrMNexQKvTE-dqvjBRlMOxsQwx4/)
+ * [Как извлечь МетаДанные из PSD-файла : : Исходный код Экстрактора Метаданных](https://docs.google.com/document/d/1loNuSXsm3kMWAPosGrMNexQKvTE-dqvjBRlMOxsQwx4/)
 
-[Как верстать сайты быстрее, чем их рисуют, Юрий Артюх] (https://www.youtube.com/watch?v=tdRuZfZW99A)
+ * [Как верстать сайты быстрее, чем их рисуют, Юрий Артюх](https://www.youtube.com/watch?v=tdRuZfZW99A)
 
 
 ## Полезные ссылки N2
